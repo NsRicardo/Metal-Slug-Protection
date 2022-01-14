@@ -205,3 +205,28 @@ h3 {
 	from {background-position:0px;}
 	to {background-position:-308px;}
 }
+
+footer {
+ width:955px;
+	height:50px;
+ position: relative;
+ background-color: #977749;
+ margin: 0 auto;
+ top: 3px;
+ left: 5px;
+ color: white;
+ text-align: center;
+}
+
+footer p{
+ display: inline-block;
+	vertical-align: middle;
+ padding-bottom: 20px;
+color: #FFF;
+}
+footer p a{
+ color: #FFF;
+}
+footer p a:hover {
+ color:yellow;
+}
